@@ -1,0 +1,14 @@
+{
+    "name": "zhangjingyang/composerdemo",
+    "description": "this is a demo for composer test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangjingyang",
+            "email": "450724834@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
